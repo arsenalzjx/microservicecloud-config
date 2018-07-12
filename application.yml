@@ -4,8 +4,8 @@
     - dev
 ---
 spring:
-  profiles:
-  application: dev    #开发环境
+  profiles: dev
+  application:    #开发环境
     name: microservicecloud-config-zjx-dev
 ---
 spring:
